@@ -38,7 +38,6 @@ Analyze hospital patient records (10,000 rows) to derive insights on patient dem
 ## Tools & Technologies
 - Microsoft Excel (Power Query, PivotTables, Pivot Charts, Timeline, Slicers, XLOOKUP)
 - Git & GitHub for version control
-- (Optional) Power BI for enhanced visuals
 
 ---
 
