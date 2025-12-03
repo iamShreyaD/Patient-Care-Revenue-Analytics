@@ -1,4 +1,4 @@
-# Patient-Care-Revenue-Analytics
+# Patient-Care-&-Revenue-Analytics
 
 **Excel, Power Query, XLOOKUP, PivotTables, Pivot Charts, Interactive Dashboard, GitHub**
 
