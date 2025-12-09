@@ -34,7 +34,7 @@ Using Excel analytics, the project delivers 3 interactive dashboards capable of 
 ---
 
 ## 🧬 Dataset Source
-- Kaggle: (Healthcare Dataset)[https://www.kaggle.com/datasets/prasad22/healthcare-dataset]
+- Kaggle: [Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 - Size: **55,501 → 54,967 rows** post cleaning  
 - 15 patient & healthcare service attributes
 
