@@ -43,6 +43,8 @@ Using Excel analytics, the project delivers 3 interactive dashboards capable of 
 ## 🎯 Dashboards & KPIs
 
 ### Dashboard 1 — *Revenue & Financial Analysis*
+<img src="https://raw.githubusercontent.com/iamShreyaD/Patient-Care-Revenue-Analytics/images/Dashboard1.png" width="800"/>
+
 - Revenue by Medical Condition  
 - Revenue by Age Brackets
 - Revenue by Admission Type
