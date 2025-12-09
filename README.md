@@ -55,7 +55,7 @@ Using Excel analytics, the project delivers 3 interactive dashboards capable of 
   - High-risk Patient Revenue: 16.37%
 
 ### Dashboard 2 — *Clinical Outcomes & Patient Risk*
-![Dashboard 2 Image](https://github.com/iamShreyaD/Patient-Care-Revenue-Analytics/blob/main/images/Dashboard%201.png)
+![Dashboard 2 Image](https://github.com/iamShreyaD/Patient-Care-Revenue-Analytics/blob/main/images/Dashboard%202.png)
 - Length of Stay (LOS) by medical condition
 - Medication & Test Patterns
 - Patient Volume by risk level
@@ -66,7 +66,7 @@ Using Excel analytics, the project delivers 3 interactive dashboards capable of 
   - Abnormal Test Results: 33.54%
 
 ### Dashboard 3 — *Operational Efficiency*
-![Dashboard 3 Image](https://github.com/iamShreyaD/Patient-Care-Revenue-Analytics/blob/main/images/Dashboard%201.png)
+![Dashboard 3 Image](https://github.com/iamShreyaD/Patient-Care-Revenue-Analytics/blob/main/images/Dashboard%203.png)
 - Bed Utilization
 - Emergency Admission Trends
 - Discharge Patterns
